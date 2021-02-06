@@ -1,0 +1,5 @@
+name: 'Examples One - Basic Skeleton'
+type: module
+description: 'The minimal requirements to register a module'
+core_version_requirement: ^8.8 || ^9
+package: 'Examples Drupal 8'

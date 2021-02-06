@@ -1,0 +1,7 @@
+{
+  "name": "drupal/example_01_basic_skeleton",
+  "type": "drupal-module",
+  "description": "The minimal requirements to register a module",
+  "homepage": "https://www.drupal.org",
+  "minimum-stability": "dev"
+}

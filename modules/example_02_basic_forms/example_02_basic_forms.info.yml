@@ -1,0 +1,5 @@
+name: 'Examples Two - Basic Forms'
+type: module
+description: 'A basic introduction to the Forms API'
+core_version_requirement: ^8.8 || ^9
+package: 'Examples Drupal 8'

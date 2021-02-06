@@ -1,0 +1,17 @@
+{
+  "intelephense.format.enable": false,
+  "[php]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 2
+  },
+  "phpcs.enable": true,
+  "phpcs.standard": "./vendor/drupal/coder/coder_sniffer/Drupal/ruleset.xml",
+  "phpcbf.enable": true,
+  "phpcbf.standard": "Drupal,DrupalPractice",
+  "phpcbf.documentFormattingProvider": true,
+  "phpcbf.executablePath": "~/.composer/vendor/bin/phpcbf",
+  "editor.tabSize": 2,
+  "intelephense.environment.phpVersion": "7.3.0",
+  "git.ignoreLimitWarning": true
+}

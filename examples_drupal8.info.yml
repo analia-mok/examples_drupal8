@@ -1,0 +1,5 @@
+name: 'Examples Drupal 8'
+type: module
+description: 'A suite of modules containing simple examples for new Drupal Developers'
+core_version_requirement: ^8.8 || ^9
+package: 'Examples Drupal 8'

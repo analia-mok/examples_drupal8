@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "felixfbecker.php-debug",
+    "neilbrayfield.php-docblocker",
+    "mehedidracula.php-namespace-resolver",
+    "persoderlind.vscode-phpcbf",
+    "ikappas.phpcs",
+    "kokororin.vscode-phpfmt",
+    "whatwedo.twig",
+    "redhat.vscode-yaml",
+    "dssiqueira.drupal-8-snippets",
+    "christian-kohler.path-intellisense"
+  ]
+}

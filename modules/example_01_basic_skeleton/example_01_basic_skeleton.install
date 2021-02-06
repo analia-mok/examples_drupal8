@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * @file
+ *
+ * For running hook_install and hook_update_N functions.
+ */
+
+/**
+ * Implements hook_install().
+ *
+ * @see https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Extension%21module.api.php/function/hook_install/8.9.x
+ */
+function example_01_basic_skeleton_install() {
+  // @todo some task right after the module has been enabled.
+}

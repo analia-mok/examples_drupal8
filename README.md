@@ -49,6 +49,7 @@ Note: The above is not required for your VSCode setup, but may be helpful.
 
 Other Examples To Be Written (TBD):
 * How Form can be used
+  * Somewhere, somehow show how to use templates.
 * Custom Block
 * Custom Controller/Routing - As CRUD as can be
 * Custom Services

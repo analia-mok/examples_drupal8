@@ -1,0 +1,7 @@
+example_03_how_to_use_forms.index:
+  path: '/examples-drupal8/simple-form-example'
+  defaults:
+    _controller: '\Drupal\example_03_how_to_use_forms\Controller\SimpleController::index'
+    _title: 'Simple Form'
+  requirements:
+    _permission: 'access content'

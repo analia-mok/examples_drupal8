@@ -1,0 +1,5 @@
+name: 'Example 03 - How to Use Forms'
+type: module
+description: 'A basic introduction to how custom forms can be utilized'
+core_version_requirement: ^8.8 || ^9
+package: 'Examples Drupal 8'

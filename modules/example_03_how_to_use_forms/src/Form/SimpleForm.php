@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\example_02_basic_forms\Form;
+namespace Drupal\example_03_how_to_use_forms\Form;
 
 /**
  * @file
@@ -24,7 +24,7 @@ class SimpleForm extends FormBase {
    * {@inheritDoc}
    */
   public function getFormId() {
-    return 'example_02_basic_form_simple_form';
+    return 'example_03_how_to_use_form_simple_form';
   }
 
   /**

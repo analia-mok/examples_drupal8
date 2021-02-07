@@ -1,4 +1,4 @@
-name: 'Examples Two - Basic Forms'
+name: 'Example 02 - Basic Forms'
 type: module
 description: 'A basic introduction to the Forms API'
 core_version_requirement: ^8.8 || ^9

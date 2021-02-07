@@ -1,5 +1,7 @@
 # Example 2 - Introduction to Forms API
 
+## Outline
+
 - @inheritDoc
 - Required methods to implement
 

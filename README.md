@@ -51,5 +51,9 @@ Other Examples To Be Written (TBD):
 * How Form can be used
   * Somewhere, somehow show how to use templates.
 * Custom Block
+ * Custom block with dependency injection (current_user) probably a good example
 * Custom Controller/Routing - As CRUD as can be
+ * Also show dependency injection 
 * Custom Services
+ * Also show dependency injection
+

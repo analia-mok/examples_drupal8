@@ -1,0 +1,7 @@
+example_05_controllers.show:
+  path: '/examples-drupal8/dependency-injection-controller-example'
+  defaults:
+    _controller: '\Drupal\example_05_controllers\Controller\DependencyInjectionController::show'
+    _title: 'Dependency Injection Controller'
+  requirements:
+    _permission: 'access content'

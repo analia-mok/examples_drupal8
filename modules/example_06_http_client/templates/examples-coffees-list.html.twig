@@ -1,0 +1,19 @@
+<div>
+  {% if errors %}
+    {{ errors }}
+  {% else %}
+    <section>
+      {% for coffee in coffees %}
+        <article>
+          <h2>{{ coffee.title }}</h2>
+          <p>{{ coffee.description }}</p>
+          <ul>
+            {% for ingredient in coffee.ingredients %}
+              <li>{{ ingredient }}</li>
+            {% endfor %}
+          </ul>
+        </article>
+      {% endfor %}
+    </section>
+  {% endif %}
+</div>

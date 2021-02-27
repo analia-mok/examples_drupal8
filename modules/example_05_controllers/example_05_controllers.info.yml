@@ -1,0 +1,5 @@
+name: 'Example 05 - Controllers'
+type: module
+description: 'A basic introduction to using controllers'
+core_version_requirement: ^8.8 || ^9
+package: 'Examples Drupal 8'

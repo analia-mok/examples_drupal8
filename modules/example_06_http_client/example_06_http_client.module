@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * @file
+ * Contains example_06_http_client.module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function example_06_http_client_theme() {
+  return [
+    'examples_coffees_list' => [
+      'variables' => [
+        'coffees' => NULL,
+        'errors' => NULL,
+      ],
+    ],
+  ];
+}

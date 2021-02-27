@@ -1,0 +1,7 @@
+example_06_http_client.show:
+  path: '/examples-drupal8/coffees'
+  defaults:
+    _controller: '\Drupal\example_06_http_client\Controller\CoffeeController::list'
+    _title: 'Coffee Controller'
+  requirements:
+    _permission: 'access content'

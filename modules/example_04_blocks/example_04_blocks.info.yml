@@ -1,0 +1,5 @@
+name: 'Example 04 - Blocks'
+type: module
+description: 'A basic introduction to create custom blocks'
+core_version_requirement: ^8.8 || ^9
+package: 'Examples Drupal 8'

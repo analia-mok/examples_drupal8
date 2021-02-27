@@ -1,0 +1,25 @@
+<?php
+
+/**
+ * @file
+ * Contains example_04_blocks.module.
+ */
+
+/**
+ * Implements hook_theme().
+ *
+ * @see https://api.drupal.org/api/drupal/core!lib!Drupal!Core!Render!theme.api.php/function/hook_theme/8.9.x
+ */
+function example_04_blocks_theme() {
+  return [
+    // Take note of the array keys used. You will need these
+    // for your block's render array. You can have as many
+    // variables as you need (or none!).
+    'simple_themeable_block' => [
+      'variables' => [
+        'content' => NULL,
+      ],
+      'render element' => 'children',
+    ],
+  ];
+}
